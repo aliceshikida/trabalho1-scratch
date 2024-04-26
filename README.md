@@ -4,6 +4,7 @@ Jogo mais difícil do mundo
 https://scratch.mit.edu/projects/1002331315/editor
 
 Relatório do Projeto: "O Desafio Supremo: O Jogo Mais Difícil do Mundo"
+!! Se houver bugs, clicar duas vezes na bandeira verde.
 
 Introdução:
 O projeto "O Jogo Mais Difícil do Mundo" foi uma iniciativa ambiciosa desenvolvida como parte do meu estudo em design de jogos e programação. Este relatório detalha a criação deste jogo excepcionalmente desafiador, destacando as decisões de design e os elementos que o tornam uma experiência única para os jogadores.
