@@ -16,11 +16,11 @@ Elementos Utilizados:
 Para criar essa experiência de jogo intensa, foram empregados diversos elementos:
 
 Usei os blocos de movimento para controlar a movimentação das bolinhasa amarelas para cima e para baixo e para a movimentação do quadrado vermelho de acordo com as teclas de seta. 
-Aparências: Criei diferentes cenários para representar a vitória, a perda e  labirinto do jogo. 
-Sons: Adicionei o som do hino do atlético para tocar na hora de ganhar.
-Eventos: Utilizei eventos para detectar colisões entre o quadrado e a bolinha. Controle: Os controles do jogo são simples, os jogadores clicam ou pressionam as teclas de seta para fazer o quadrado se mover para os lados, para cima e para baixo. 
-Variáveis: Utilizei variáveis para controlar o tempo, as vezes perdidas (máximo 3) e o máximo de tempo (20 seg); 
-Operadores: Utilizei operadores para calcular a pontuação com base na distância percorrida pelo peixe.
+-Aparências: Criei diferentes cenários para representar a vitória, a perda e  labirinto do jogo. 
+-Sons: Adicionei o som do hino do atlético para tocar na hora de ganhar.
+-Eventos: Utilizei eventos para detectar colisões entre o quadrado e a bolinha. Controle: Os controles do jogo são simples, os jogadores clicam ou pressionam as teclas de seta para fazer o quadrado se mover para os lados, para cima e para baixo. 
+-Variáveis: Utilizei variáveis para controlar o tempo, as vezes perdidas (máximo 3) e o máximo de tempo (20 seg); 
+-Fantasias: Utilizei do efeito fantasma no ator do quadrado para quando o usuário encostasse na bolinha amarela, ele voltasse para a posição original lentamente. Fora isso, ao passar a ponta do mouse em "play again" e "ganhar mais uma", a cor desses atores é alterada.
 
 Motivação:
 A principal motivação por trás da criação de "O Jogo Mais Difícil do Mundo" foi proporcionar aos jogadores uma experiência verdadeiramente desafiadora e recompensadora. Inspirado por outros jogos conhecidos por sua dificuldade extrema,o objetivo era criar um jogo que testasse os limites dos jogadores e os recompensasse pela sua persistência.
