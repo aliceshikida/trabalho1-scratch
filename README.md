@@ -1,7 +1,7 @@
 Laboratorio de Iniciação à Programação
 
 Jogo mais difícil do mundo 
-https://scratch.mit.edu/projects/1002331315/editor
+https://scratch.mit.edu/projects/1002331315
 
 Relatório do Projeto: "O Desafio Supremo: O Jogo Mais Difícil do Mundo"
 !! Se houver bugs, clicar duas vezes na bandeira verde.
